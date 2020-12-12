@@ -169,19 +169,6 @@ begin
 l=0;
 end
 
-sum1 = k-num;
-sum2 = l-num;
-sum = sum1+sum2+2;
-if (sum1<0)
-begin
-sum1 = 0;
-end
-
-if (sum2 <0)
-begin
-sum2 = 0;
-end
-
 
 m=0;
 n=0;
